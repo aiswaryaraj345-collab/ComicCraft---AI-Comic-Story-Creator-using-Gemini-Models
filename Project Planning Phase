@@ -1,5 +1,5 @@
-Project Planning Phase
-# ComicCraft-AI: Comic Story Creator Using Gemini Models
+Project Planning phase
+ ComicCraft-AI: Comic Story Creator Using Gemini Models
 
  ## Project Design Phase
 
@@ -621,4 +621,4 @@ POST   /api/projects/:id/export
 
  **User Idea → Story Generation → Character Design → Scene Creation → Dialogue → Panel Planning → Visual Prompts → Editing → Save/Export**
 
- This design establishes the technical foundation for the next phase: **Implementation/Development**, where the frontend, backend, database, Gemini API integration, authentication, and comic-generation workflows can be developed.
+ This design establishes the technical foundation for the next 
